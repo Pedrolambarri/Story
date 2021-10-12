@@ -1,7 +1,6 @@
-En este episodio, te contamos como empezó todo el cambio en la vida de Pedro.
+Aquí cambiamos parte del texto como prueba también para ver si se quedan los cambios en la rama principal ya que no queremos que se vea nada del contenido original.
 
-1 Aprendió un nuevo idioma
-2 Conoció al amor de su vida
-3 Aprendió a programar
-4 Se fue vivir a otro país. 
+
+
+
 
