@@ -1,1 +1,3 @@
 Probando cambios para practicar con Github, este es el primer cambio vamos ahí.
+
+Aquí creamos una rama paralela para ver como funciona, y solo agregamos este nuevo comentario para practicar.

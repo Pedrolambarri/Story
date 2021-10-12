@@ -1,5 +1,7 @@
 Aquí cambiamos parte del texto como prueba también para ver si se quedan los cambios en la rama principal ya que no queremos que se vea nada del contenido original.
 
+Si funcionó, si te dio pena lo que escribiste y guardaste en Github puedes repetir todo el proceso inicial y queda sobre escrito en el master. Ahora en este momento lo que estamos haciendo es crear otra rama para entender como funciona agregar información a tu proyecto sin alterar antiguas versiones. De esta manera creamos un árbol e nuestro proyecto y tendremos registrado todo el proceso de creación sin el riesgo de estropear o perder información importante. 
+
 
 
 
